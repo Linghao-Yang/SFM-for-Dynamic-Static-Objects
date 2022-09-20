@@ -28,10 +28,10 @@ SFM algorithm for both dynamic and static objects.
   <th align="center">depth_0.4m_noise</th>
 </tr>
 <tr>
-  <td><img src = "Picture/without_constrain_0.2_pose_noise.png" width = "360" height = "300" /> </td>
-  <td><img src = "Picture/depth_0m_noise.png" width = "360" height = "300" /> </td>
-  <td><img src = "Picture/depth_0.2m_noise.png" width = "360" height = "300" /> </td>
-  <td><img src = "Picture/depth_0.4m_noise.png" width = "360" height = "300" /> </td>
+  <td><img src = "Picture/without_constrain_0.2_pose_noise.png" width = "400" height = "300" /> </td>
+  <td><img src = "Picture/depth_0m_noise.png" width = "400" height = "300" /> </td>
+  <td><img src = "Picture/depth_0.2m_noise.png" width = "400" height = "300" /> </td>
+  <td><img src = "Picture/depth_0.4m_noise.png" width = "400" height = "300" /> </td>
 </tr>
 <tr>
 <td>GT Point Clouds (Puple)</td>
