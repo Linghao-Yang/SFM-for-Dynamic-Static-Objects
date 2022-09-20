@@ -58,4 +58,3 @@ SFM algorithm for both dynamic and static objects.
 <!-- [Youtube](https://youtu.be/iQVhdhqFTZQ) -->
 =======
 [Youtube](https://youtu.be/JXHjTY0kOgw)
->>>>>>> 565ddd9c6e0bce16cd7a8690acbf9ca212ebc7f9
